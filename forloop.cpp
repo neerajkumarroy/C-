@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int i = 1 ,num = 1;
-	cout<<"Enter Two Numbers:";
+	cout<<"Enter the number for which you want to find the table:";
 	cin >> num;
 	
 	for(i = 1;i <= 10; i++)
