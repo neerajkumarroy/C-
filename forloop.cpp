@@ -17,6 +17,8 @@ int main()
 
 Output:
 	____________________________________________________________________________
+	Enter the number for which you want to find the table:5
+		
 	5*1=5
 	5*2=10
 	5*3=15
